@@ -1,0 +1,16 @@
+GET http://localhost:5000/users
+
+###
+GET http://localhost:5000/products
+
+###
+POST http://localhost:5000/create-user
+
+###
+POST http://localhost:5000/create-product
+
+###
+PUT http://localhost:5000/modify-user
+
+###
+DELETE http://localhost:5000/delete-user
